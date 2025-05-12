@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-2ke0j_!xyhre6zvbrdu#$&pl0kfy_54vj8#94^i8m1do%d&fs(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['miraitask.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
